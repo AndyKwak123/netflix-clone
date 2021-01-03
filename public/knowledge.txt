@@ -1,0 +1,26 @@
+API KEY: 0583f3b4cc1a2e3401ee6d32469c1739
+
+
+STEPS: 
+
+
+GET API KEY 
+
+SET UP APP WITH FIREBASE 
+
+AXIOS -> 
+
+
+
+ES7 Snippet commands 
+
+RFC -> Component boilerplate with name of file 
+
+
+REACT VOCAB:
+
+STATE: Short Term memory-> data that disappears
+
+the value inside useState is the default value 
+
+Anytime you use a variable that is coming from the outside you must use it in the dependency 
